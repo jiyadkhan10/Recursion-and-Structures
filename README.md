@@ -11,5 +11,5 @@ The AIM of this assignment is to practice with Recursion and Structures in C++. 
 1. C++ Language <br />
 
 # Note
-The Description.pdf contains the detailed description of this repository. <br />
+The Description.docx contains the detailed description of this repository. <br />
 
